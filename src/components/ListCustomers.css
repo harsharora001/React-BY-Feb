@@ -1,0 +1,12 @@
+.customer{
+
+    background-color: cadetblue;
+    border: 2px solid teal;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 7px;
+    min-width: 250px;
+    min-height: 175px;
+
+    
+}
